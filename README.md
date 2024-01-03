@@ -14,7 +14,7 @@ The `checker` program, located in the `bonus` folder, validates whether the stac
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/seungwonme/push_swap
+git clone https://github.com/seungwonme/push_swap.git
 ```
 
 2. Navigate to the project directory:
